@@ -1,0 +1,24 @@
+{
+  "name": "ucb-schedules",
+  "version": "1.0.0",
+  "description": "Scrapes the Upright Citizen Brigade schedules off their websites and places them into separate Google Calendars for easy on-the-go show lookup.",
+  "main": "ucb.js",
+  "dependencies": {
+    "request": "^2.36.0",
+    "cheerio": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:markdunphy/ucb-schedules.git"
+  },
+  "author": "Mark Dunphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markdunphy/ucb-schedules/issues"
+  },
+  "homepage": "https://github.com/markdunphy/ucb-schedules"
+}
