@@ -1,0 +1,13 @@
+{
+    "name": "mark/ucb-calendar",
+    "require": {
+        "google/apiclient": "~1.0.4"
+    },
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Mark Dunphy",
+            "email": "markdunphy@gmail.com"
+        }
+    ]
+}
